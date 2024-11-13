@@ -16,7 +16,7 @@ Gustavo Guanabara e outros.
 
 Aqui estão algumas tecnologias com as quais trabalho:
 
-- Linguagens: ![C] ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- Linguagens: ![C](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - Ferramentas: ![Git] ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## Projetos em Destaque
