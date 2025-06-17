@@ -8,7 +8,7 @@ Gustavo Guanabara e utros.
 ## Sobre Mim
 
 - 🎓 Atualmente estou estudando HTML, CSS e JavaScript no cursoemvideo.com
-- 💼 Trabalhando atualmente como barbeiro e estou em fase de transição de carreira para a área de Programação
+- 💼 Trabalhando atualmente como barbeiro e aprendendo Programação
 - 🌱 Atualmente, estou aprendendo Desenvolvimento Web Full Stack
 - 🚀 Sempre explorando novas tecnologias e me dedicando a aprimorar minhas habilidades
 
