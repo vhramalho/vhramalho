@@ -23,7 +23,7 @@ Sou barbeiro e autodidata em programação. Estou desenvolvendo projetos reais c
 
 ## 📌 Projetos em Destaque
 
-- [Sistema de Agendamento](https://github.com/vhramalho/projeto-agenda): Agenda para barbearia com horários clicáveis, status de serviço, relatórios e integração com WhatsApp.
+- [Sistema de Agendamento](https://github.com/vhramalho/projeto-agenda): Agenda para barbearia com horários clicáveis, status de serviço, relatórios e integração com WhatsApp. (em desenvolvimento)
 - [PDV Simples](https://github.com/vhramalho/projeto-pdv): Sistema de ponto de venda com controle de estoque, caixa e fechamento diário (em desenvolvimento).
 
 ---
